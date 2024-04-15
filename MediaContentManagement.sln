@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MediaContentManagementClient", "MediaContentManagementClient\MediaContentManagementClient.csproj", "{9E504A30-5A27-4A77-B31D-A72A8BB99789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaContentManagementServer", "MediaContentManagementServer\MediaContentManagementServer.csproj", "{7CACFCD3-C773-4645-BF73-912929B3D3D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E504A30-5A27-4A77-B31D-A72A8BB99789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E504A30-5A27-4A77-B31D-A72A8BB99789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E504A30-5A27-4A77-B31D-A72A8BB99789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E504A30-5A27-4A77-B31D-A72A8BB99789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CACFCD3-C773-4645-BF73-912929B3D3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CACFCD3-C773-4645-BF73-912929B3D3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CACFCD3-C773-4645-BF73-912929B3D3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CACFCD3-C773-4645-BF73-912929B3D3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {173D60B0-6B0E-417A-B199-B265B6DBB052}
+	EndGlobalSection
+EndGlobal
